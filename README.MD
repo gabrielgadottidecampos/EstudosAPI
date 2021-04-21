@@ -1,14 +1,15 @@
-#Consumir API
+# Consumir API
 
 ## API
 
 ## Criar um API
--[X] Iniciar o projeto 'npm init -y'
--[X] Instalar as dependencias 'npm i express nodemon cors axios'
--[] Criar uma rota para acessar a API
--[] Servir a API
--[] Habilitar o CORS
--[] Habilitar o nodemon para reiniciar o server
+- [X] Iniciar o projeto 'npm init -y'
+- [X] Instalar as dependencias 'npm i express nodemon cors axios'
+- [] Criar uma rota para acessar a API
+- [] Servir a API
+- [] Habilitar o CORS
+- [] Habilitar o nodemon para reiniciar o server
 
 ## frontend
 Consumir API
+
