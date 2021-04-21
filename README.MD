@@ -2,7 +2,7 @@
 
 ## API
 
-##Criar um API
+## Criar um API
 -[X] Iniciar o projeto 'npm init -y'
 -[X] Instalar as dependencias 'npm i express nodemon cors axios'
 -[] Criar uma rota para acessar a API
